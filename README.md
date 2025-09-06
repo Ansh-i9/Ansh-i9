@@ -11,17 +11,3 @@
 🌱 I’m learning: *to make our task "trouble-free"*  
 
 🏫 I study at *Podar International School*, Class *9*
-
-
-
-
-
-
-
-
-
-
-
-g Calculator prac 2.py…]()
-
-            
