@@ -11,3 +11,7 @@
 🌱 I’m learning: *to make our task "trouble-free"*  
 
 🏫 I study at *Podar International School*, Class *9*
+
+🖨️ I love 3D printing and enjoy designing and creating real-world tech components
+
+
