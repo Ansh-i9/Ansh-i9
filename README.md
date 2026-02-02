@@ -1,17 +1,52 @@
-## Hi there, I am Ansh Raval 👋 
-## ⚡ About Me
-💻 I’m passionate about *coding, technology, and learning new skills in robotics* 
+<h1 align="center">Hi 👋, I'm Ansh Raval</h1>
 
-🌱 Currently exploring *Python and AI* 
+## 💻 About Me
 
-🎯 Goal: To become a *IT Professor and build impactful projects*  
+- 💡 Passionate about **coding, technology, and robotics**
+- 🌱 Currently exploring **Python & Artificial Intelligence**
+- 🖨️ I love **3D Printing** and designing real-world components
+- 🔭 Working on **Calculator using Microcontrollers**
+- 🎯 Goal: Become an **IT Professor** and build impactful projects
+- 🏫 Studying at **Podar International School**, Class **9**
 
-🔭 I’m currently working on: *Making calculator using  microcontrollers*  
+---
 
-🌱 I’m learning: *to make our task "trouble-free"*  
+## 🚀 Skills & Interests
 
-🏫 I study at *Podar International School*, Class *9*
+- 💻 Programming: `Python`, `Micropytjon`, `HTML`
+- 🤖 Robotics & Embedded Systems
+- 🧠 Artificial Intelligence (Beginner)
+- 🖨️ 3D Printing
+- 🔧 Microcontrollers & Sensors
 
-🖨️ I love 3D printing and enjoy designing and creating real-world tech components
+---
 
+## 🛠️ Tools & Technologies
 
+<p>
+ <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge&logo=prusa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=TINKERCAD&logoColor=white"/>
+</p>
+
+</p>
+</p>
+
+---
+
+## 📌 Current Projects
+
+- 🧮 **Microcontroller-Based Calculator**
+- 🤖 **PRAGYA – Healthcare & Safety Robot**
+- 🖨️ **3D Printed Robot Chassis Designs**
+
+---
+
+## 🌟 Learning Philosophy
+
+> *"Make technology simple, reliable, and trouble-free."*
+
+⭐ *If you like my work, consider giving a star to my repositories!*
