@@ -26,7 +26,7 @@
 <p>
  <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-00979D?style=for-the-badge&logo=raspberryPi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge&logo=prusa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=TINKERCAD&logoColor=white"/>
