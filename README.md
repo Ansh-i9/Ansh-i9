@@ -7,7 +7,7 @@
 - 🖨️ I love **3D Printing** and designing real-world components
 - 🔭 Working on **Calculator using Microcontrollers**
 - 🎯 Goal: Become an **IT Professor** and build impactful projects
-- 🏫 Studying at **Podar International School**, Class **9**
+- 🏫 Studying at **Podar International School**, Class **10**
 
 ---
 
