@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Raval</h1>
 
-## 💻 About Me
+## 🧑🏻‍💻 About Me
 
 - 💡 Passionate about **coding, technology, and robotics**
 - 🌱 Currently exploring **Python & Artificial Intelligence**
