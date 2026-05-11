@@ -7,6 +7,7 @@
 - 🖨️ I love **3D Printing** and designing real-world components
 - 🔭 Working on **Calculator using Microcontrollers**
 - 🎯 Goal: Become an **IT Professor** and build impactful projects
+- 💻 Intrested in making **websites**
 - 🏫 Studying at **Podar International School**, Class **10**
 
 ---
@@ -15,9 +16,9 @@
 
 - 💻 Programming: `Python`, `Micropytjon`, `HTML`
 - 🤖 Robotics & Embedded Systems
-- 🧠 Artificial Intelligence (Beginner)
 - 🖨️ 3D Printing
 - 🔧 Microcontrollers & Sensors
+- 😎 Using AI
 
 ---
 
